@@ -1,6 +1,6 @@
 {
   "lang_name": "Português (Not finished)",
-  "translators": "<li><a href=\"https://github.com/TheGhostOfInky\" >TheGhostOfInky</a></li>",
+  "translators": "<li> <a href=\"https://github.com/TheGhostOfInky\" >TheGhostOfInky</a></li><li> <a href=\"https://github.com/chicopelliz\" >chicopelliz</a></li>",
   "ui_index_title": "Ideosorter",
   "ui_index_text": "<h2>O que é o Ideosorter?</h2><p>Ideosorter é, em essência, um teste político que atempta atribuir uma ideologia que se aproxima dos seus ideais politicos perguntando questões orientadas num estilo de um fluxograma. Este teste irá atribuir-lhe uma de <span id='ideo_length'></span> diferentes ideologias politicas com base nas suas repostas às questões dadas; talvês descobirá algo que não conhece sobre si!</p><h2>Eu não entendo uma das questões!</h2><p>Se houver algo que não preceba nõs tentamos utilizar terminologia o mais fácil de pesquisar possivel e se houver algo não claro, pode contactar-nos com quaisquer comentários de modo a podermos fazer alterações ao teste!</p><h2>Eu não gosto da ideologia que me foi designada!</h2><p>¯\\_(ツ)_/¯</p>",
   "ui_index_start": "Clique aquí para começar!",
@@ -71,7 +71,7 @@
   "ideo_4theory": "Você é um Quarto Teórico",
   "ideo_4theory_desc": "The fourth theory is an ideology concieved by the Russian political analyst Aleksandr Dugin that seeks to find a new poltiical theory past Liberalism, Marxism and Fascism.",
   "ideo_agorism": "Você é um Agorista",
-  "ideo_agorism_desc": "Agorism is an ideology concieved by Samuel Edward Konkin III that seeks to establish a society in which all exchanges are voluntary, by the means of engaging in counter-economic activities.",
+  "ideo_agorism_desc": "Aagorism is an ideology concieved by Samuel Edward Konkin III that seeks to establish a society in which all exchanges are voluntary, by the means of engaging in counter-economic activities.",
   "ideo_agsoc": "Você é um Socialista Agrário",
   "ideo_agsoc_desc": "Agrarian Socialism is an ideology that seeks to combine an agrarian lifestyle and socialist economic system, mostly focusing on land redistribution and social ownership of land.",
   "ideo_ancap": "Você é um Anarcocapitalista",
